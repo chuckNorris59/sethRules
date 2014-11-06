@@ -1,5 +1,6 @@
 int main()
 {
-
+	int x;
 	//Hello
-// Seth is a good programming teacher }
+	// Seth is a good programming teacher 
+}
